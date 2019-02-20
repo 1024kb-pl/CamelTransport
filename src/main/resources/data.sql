@@ -49,7 +49,7 @@ INSERT INTO camel(name, gender, capacity, age) VALUES('Angela', 1, 60, 15);
 INSERT INTO camel(name, gender, capacity, age) VALUES('Johny', 0, 135, 28);
 INSERT INTO camel(name, gender, capacity, age) VALUES('Jorge', 0, 105, 43);
 
-INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(1, 2, 1, '2019-02-03 15:47:52.06', '2019-02-01 14:30:00.00');
+INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(1, 2, 1, '2019-02-03 15:47:52.06', '2019-02-05 14:30:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(1 ,3, 2, '2019-01-30 15:47:52.06', '2019-02-03 14:12:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(1 ,5, 2, '2019-01-28 18:38:52.06', '2019-02-02 19:12:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(1 ,7, 3, '2019-01-31 18:38:52.06', '2019-02-05 19:45:00.00');
@@ -65,7 +65,7 @@ INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arriv
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(4 ,17, 2, '2019-02-03 18:47:52.06', '2019-02-05 19:30:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(4 ,15, 3, '2019-01-30 18:47:52.06', '2019-02-01 19:30:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(5 ,7, 3, '2019-01-27 15:47:52.06', '2019-01-29 19:30:00.00');
-INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(5 ,8, 2, '2019-02-03 21:21:52.06', '2019-02-03 08:30:00.00');
+INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(5 ,8, 2, '2019-02-03 11:21:52.06', '2019-02-04 08:30:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(5 ,1, 6, '2019-01-30 21:21:52.06', '2019-01-31 17:30:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(6 ,4, 5, '2019-01-27 21:47:52.06', '2019-01-29 17:30:00.00');
 INSERT INTO camel_ride(city_from_id, city_to_id, camel_id, departure_date, arrival_date) VALUES(6 ,9, 1, '2019-01-30 21:47:52.06', '2019-02-03 08:30:00.00');
